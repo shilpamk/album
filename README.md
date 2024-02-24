@@ -6,3 +6,8 @@
 * Display song lyrics when clicked on the link
 * Plays audio 
 * Display favicon
+
+
+## To Do
+
+* Include CSS
